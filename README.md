@@ -1,5 +1,5 @@
 # RTK_GPS
-A RTK GPS sensor Board for drones
+A RTK GPS sensor Board for drones based around the Quectel LC29H Chip. It should offer accuracy of up to 5cm. It needs a Basestation or (depending on your country) position correcting GPS data that is send to the esp32.
 
 <img width="1049" height="537" alt="grafik" src="https://github.com/user-attachments/assets/929d70f7-54ae-4459-8fa3-e274b161e9d6" />
 

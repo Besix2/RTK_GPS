@@ -1,5 +1,5 @@
-Designator;Footprint;Quantity;Value;Dont need
-C4, C5, C6;603;3;10ÊF;
+Designator; Footprint; Quantity ;Value; Dont need
+C4, C5, C6;603;3;10√¶F;
 C7;603;1;100nF;
 D1;603;1;LED;
 J1;PinHeader_1x07_P2.54mm_Vertical;1;Conn_01x07_Socket;x
@@ -16,3 +16,4 @@ Erls Module;link;1;;
 Frame;select one you want;1;;
 Flight controller;select one you want with enough ports;1;;
 This quectel LC29H(HDA);link;1;;
+

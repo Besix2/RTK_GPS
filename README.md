@@ -16,6 +16,9 @@ I researched several different types of drone positioning systems and basically 
 
 <img width="1481" height="1059" alt="grafik" src="https://github.com/user-attachments/assets/0e035bc0-d903-43b7-812d-cd2dc4912932" />
 
+<img width="1633" height="1125" alt="grafik" src="https://github.com/user-attachments/assets/cdf9d5eb-1c3e-49cb-a9f7-8416b911a77e" />
+
+
 
 
 | Designator     | Value                       | Footprint              |   Quantity |   Price | Link                                                         |   Total Price |
